@@ -1,0 +1,9 @@
+body {
+    color: #8317FF;
+    background-color: black;
+    font-family: font;
+}
+@font-face {
+    font-family: font;
+    src: url(ari.ttf);
+}
